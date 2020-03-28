@@ -1,13 +1,13 @@
-<html lang = "en">
+<html>
 <style>
 body {
   background-image: url('xuanran.png');
 }
 </style>
-<head>
-Jayking Liu
-</head>
 <body>
+<h>
+Jayking Liu
+</h>
   <h1>Biograph</h1>
   <p>
     This is Liu Jikun, also known as Jayking. He is from He'nan, China. He recieved high quality education in XingHua Junior High school and He'nan Experimental Senior High School. At that time, he was an excellent student with enthusiasm towards the world and infinite knowledge.
