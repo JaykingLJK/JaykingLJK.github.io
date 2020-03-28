@@ -1,5 +1,9 @@
 <html lang = "en">
-<div style="background-image: url（‘xuanran.png');">
+<style>
+body {
+  background-image: url('xuanran.png');
+}
+</style>
 <head>
 Jayking Liu
 </head>
