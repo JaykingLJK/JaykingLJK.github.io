@@ -1,4 +1,4 @@
-<html lang=en>
+<html>
 <style>
 body {
   background-image: url('bg.png');
