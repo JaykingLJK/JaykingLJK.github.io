@@ -1,7 +1,7 @@
-<html>
+<html lang=en>
 <style>
 body {
-  background-image: url('xuanran.png');
+  background-image: url('bg.png');
 }
 </style>
 <body>
