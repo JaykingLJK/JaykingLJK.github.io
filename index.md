@@ -1,4 +1,3 @@
-<html>
 <style>
 body {
   background-image: url('bg.png');
@@ -17,4 +16,3 @@ Jayking Liu
     Since 2018, Jayking has been a scholar in Nanyang Technological University, Singapore with full-time scholarship. His major is Electrical & Electronic Engineering and is expected to graduate in 2023.
   </p>
 </body>
-</html>
