@@ -1,7 +1,8 @@
 <html lang=en>
 <style>
 body {
-  background-image: url('bg.jpg');
+  background-image: url('bg.png');
+  background-repeat: no-repeat;
 }
 </style>
 <body>
