@@ -1,7 +1,7 @@
 <html lang=en>
 <style>
 body {
-  background-image: url('bg.png');
+  background-image: url('bg.jpg');
 }
 </style>
 <body>
