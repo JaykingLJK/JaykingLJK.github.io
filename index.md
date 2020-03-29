@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Jayking Liu's personal website</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <style>
 body {
   background-image: url('bg.png');
